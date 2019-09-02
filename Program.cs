@@ -39,7 +39,7 @@ namespace Week_1
             //Console.WriteLine(Euros + " EUR is " + Dollars + " USD");
             //Console.WriteLine("Druk op een knop om door te gaan");
             //Console.ReadKey();
-            //Console.Clear();
+            Console.Clear();
 
             Console.WriteLine("Please choose a language");
             Console.WriteLine("1. Nederlands");
